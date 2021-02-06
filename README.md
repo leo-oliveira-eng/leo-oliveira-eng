@@ -2,7 +2,7 @@
 
 > Senior Software Analyst at [@dextra](https://github.com/dextra)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=leo-oliveira-eng&count_private=true&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=leo-oliveira-eng&count_private=true&show_icons=true&theme=monokai)
 
 
 ----------------------------------------------------------------
