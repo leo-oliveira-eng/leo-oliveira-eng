@@ -27,12 +27,12 @@
 </p>
 
 <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2547/PNG/512/hosting_cloud_web_design_icon_152288.png"
+  <img src="https://www.freeiconspng.com/thumbs/financial-icon-png/go-back--gallery-for--financing-icon-6.png"
        width="26px" 
-       alt="Architecture" 
-       title="architecture" 
+       alt="Finance" 
+       title="finance" 
        align="center" />
-  Currently studying Solution Architecture at PUC Minas.  
+  Currently studying Financial and Capital Market at PUC Minas.  
 </p>
 
 <p align="left">
