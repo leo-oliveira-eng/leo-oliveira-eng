@@ -2,18 +2,6 @@
 
 > Senior Software Analyst at [Stone Co](https://github.com/stone-payments).
 
-<p align="left">
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=leo-oliveira-eng&count_private=true&show_icons=true&theme=monokai&count_private=true"
-  />  
-  <img 
-    width="49%"
-    src="http://github-readme-streak-stats.herokuapp.com?user=leo-oliveira-eng&border=e4e2e2&theme=monokai" />   
-</p>
-
-
-
 
 ----------------------------------------------------------------
 
@@ -52,6 +40,3 @@
        align="center" />
 Let's drink and talk about technology?
 
-<p align="center">
-  <img align="center" width="100%" src="https://github.com/leo-oliveira-eng/contributions-snake-game/blob/output/github-contribution-grid-snake.svg" />
-</p>
