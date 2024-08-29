@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Leo](https://www.linkedin.com/in/leo-de-oliveira-eng/)
 
-> Senior Software Analyst at [Stone Co](https://github.com/stone-payments).
+> Senior Software Engineer at [Stone Co](https://github.com/stone-payments).
 
 
 ----------------------------------------------------------------
