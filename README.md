@@ -3,6 +3,17 @@
 > Senior Software Engineer at [Stone Co](https://github.com/stone-payments).
 
 
+<p align="left">
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=leo-oliveira-eng&show=prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=monokai&hide=contribs"
+  />  
+  <img 
+    height="55%"
+    src="http://github-readme-streak-stats.herokuapp.com?user=leo-oliveira-eng&border=e4e2e2&theme=monokai" />
+</p>
+
+
 ----------------------------------------------------------------
 
 <p align="left"> 
@@ -15,12 +26,12 @@
 </p>
 
 <p align="left">
-  <img src="https://www.freeiconspng.com/thumbs/financial-icon-png/go-back--gallery-for--financing-icon-6.png"
+  <img src="https://cdn-icons-png.flaticon.com/512/7406/7406516.png"
        width="26px" 
        alt="Finance" 
        title="finance" 
        align="center" />
-  Currently studying Financial and Capital Market at PUC Minas.  
+  Currently studying Artificial Intelligence with emphasis on Machine Learning at XPe.  
 </p>
 
 <p align="left">
