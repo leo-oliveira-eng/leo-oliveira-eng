@@ -3,11 +3,13 @@
 > Senior Software Engineer at [Stone Co](https://github.com/stone-payments).
 
 
-<p align="left">
+<p align="center">
   <img 
     width="49%"
     src="https://github-readme-stats.vercel.app/api?username=leo-oliveira-eng&show=prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=monokai&hide=contribs&rank_icon=github"
   />  
+</p>
+<p align="center">
   <img 
     height="55%"
     src="http://github-readme-streak-stats.herokuapp.com?user=leo-oliveira-eng&border=e4e2e2&theme=monokai" />
@@ -50,4 +52,14 @@
        title="Beer" 
        align="center" />
 Let's drink and talk about technology?
+
+
+
+----------------------------------------------------------------
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leo-oliveira-eng/contributions-snake-game/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/leo-oliveira-eng/contributions-snake-game/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/leo-oliveira-eng/contributions-snake-game/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
