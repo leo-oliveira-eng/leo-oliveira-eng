@@ -4,10 +4,9 @@
 
 
 <p align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=leo-oliveira-eng&show=prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=monokai&hide=contribs&rank_icon=github"
-  />  
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=monokai&preferLogin=false">    
+      <img  alt="leo-oliveira-eng's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/leo-oliveira-eng?cardType=level&theme=monokai&preferLogin=false" />  
+    </a>
 </p>
 <p align="center">
   <img 
